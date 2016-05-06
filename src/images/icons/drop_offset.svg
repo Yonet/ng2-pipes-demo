@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21px" height="28px" viewBox="0 0 21 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>drop_offset</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard1" sketch:type="MSArtboardGroup" fill="#FFFFFF">
+            <path d="M10.0756849,0 L1.6061644,12.8732876 C0.587328797,14.3955479 0,16.1886987 0,18.1208904 C0,23.5770548 4.70102744,28 10.5,28 C16.2989726,28 21,23.5770548 21,18.1208904 C21,16.1886987 20.3934931,14.3931507 19.3770549,12.8732876 C19.3770549,12.8732876 18.825685,11.6794521 10.0756849,0 Z M10.1565068,3 L3.30022832,13.8043664 C2.47545664,15.0819777 2,16.5869435 2,18.2086044 C2,22.7878852 5.80559364,26.5 10.5,26.5 C15.1944064,26.5 19,22.7878852 19,18.2086044 C19,16.5869435 18.5090182,15.0799657 17.6861873,13.8043664 C17.6861873,13.8043664 17.2398402,12.8023973 10.1565068,3 Z" id="drop_offset" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

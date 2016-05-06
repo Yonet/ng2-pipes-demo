@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="assets" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="26px" height="30px" viewBox="0 0 26 30" enable-background="new 0 0 26 30" xml:space="preserve">
+<g>
+	<path id="background_2_" fill="#2590D8" d="M0,0v30h26V7h-7V0H0z"/>
+	<path id="white_5_" fill="#FFFFFF" d="M1,1v20h24V7h-6V1H1z"/>
+	<g>
+		<g>
+			<polygon fill="#1273C5" points="13,11 21,7 21,15 13,19 			"/>
+			<polygon fill="#2590D8" points="13,11 5,7 5,15 13,19 			"/>
+			<polygon fill="#34AFF4" points="13,11 5,7 13,3 21,7 			"/>
+		</g>
+		<g>
+			<polygon fill="#1273C5" points="13,11 8,13.5 8,8.5 13,6 			"/>
+			<polygon fill="#2590D8" points="13,11 18,13.5 18,8.5 13,6 			"/>
+			<polygon fill="#34AFF4" points="13,11 18,13.5 13,16 8,13.5 			"/>
+		</g>
+		<path fill="#FFFFFF" d="M13.5,8.3c0,0.2,0,0.3,0.1,0.5l-2.5,1.5c-0.2-0.2-0.5-0.3-0.7-0.3c-0.7,0-1.2,0.5-1.2,1.2
+			c0,0.7,0.5,1.2,1.2,1.2c0.4,0,0.7-0.2,0.9-0.4l2.3,1.4c0,0.1,0,0.2,0,0.2c0,0.7,0.5,1.2,1.2,1.2c0.7,0,1.2-0.5,1.2-1.2
+			c0-0.7-0.5-1.2-1.2-1.2c-0.4,0-0.7,0.2-0.9,0.4l-2.3-1.4c0-0.1,0-0.2,0-0.3c0-0.2,0-0.3-0.1-0.5l2.5-1.5c0.2,0.2,0.5,0.3,0.7,0.3
+			c0.7,0,1.2-0.5,1.2-1.2s-0.5-1.2-1.2-1.2C14,7.1,13.5,7.7,13.5,8.3z"/>
+	</g>
+	<g>
+		<path id="foldedCorner_2_" fill="#34AFF4" d="M19,0l7,7h-7V0z"/>
+		<path id="shadow_6_" opacity="0.2" fill="#1B3F63" enable-background="new    " d="M26,14l-7-7h7V14z"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M6,25.5C6,27.2,6.9,28,8,28c0.8,0,1.7-0.6,2-1.5L9.2,26C9,26.5,8.7,27,8,27c-0.6,0-1-0.7-1-1.5
+			S7.4,24,8,24c0.5,0,1,0.5,1.1,1l0.9-0.5C9.7,23.6,9.1,23,8,23C6.8,23,6,23.8,6,25.5z"/>
+		<path fill="#FFFFFF" d="M20,28v-1h-2v-4h-1v5H20L20,28z"/>
+		<path fill="#FFFFFF" d="M12,25.5c0-0.8,0.7-1.5,1.5-1.5s1.5,0.7,1.5,1.5S14.3,27,13.5,27S12,26.3,12,25.5z M11,25.5
+			c0,1.4,1.1,2.5,2.5,2.5c1.4,0,2.5-1.1,2.5-2.5S14.9,23,13.5,23C12.1,23,11,24.1,11,25.5z"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,2121 @@
+{
+    "items":
+    [
+        {
+            "name": "Inventor Design Shares",
+            "id": "b7e04123abb94cf5a687f696e3dc5f69",
+            "parentId": "root",
+            "ownerId": "QAVELZ5SFYWY",
+            "ownerName": "lior.gerling@autodesk.com",
+            "serviceId": "my",
+            "sourceConsumerId": "697ef507-e285-4c98-ae9c-15e9fb279743",
+            "modifiedByConsumerId": "697ef507-e285-4c98-ae9c-15e9fb279743",
+            "created": "2015-12-11T01:15:57.131+00:00",
+            "modified": "2016-03-25T00:05:45.38+00:00",
+            "itemType": "folder",
+            "fileSize": "0",
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "root",
+                "objectType": "folder",
+                "objectName": "root"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "QAVELZ5SFYWY",
+                            "userName": "lior.gerling@autodesk.com",
+                            "firstName": "Lior",
+                            "lastName": "Gerling",
+                            "email": "lior.gerling@autodesk.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    },
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete",
+                            "share"
+                        ]
+                    },
+                    {
+                        "user": {
+                            "userId": "TKN6LMEZCFQA",
+                            "userName": "prathap.reddy@autodesk.com",
+                            "firstName": "Prathap",
+                            "lastName": "Reddy",
+                            "email": "prathap.reddy@autodesk.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete",
+                            "share"
+                        ]
+                    },
+                    {
+                        "user": {
+                            "userId": "TH98N5K4DDR7",
+                            "userName": "driveusertest",
+                            "firstName": "drive",
+                            "lastName": "test",
+                            "email": "driveusertest@gmail.com"
+                        },
+                        "levels": [
+                            "view"
+                        ]
+                    }
+                ]
+            },
+            "SharedBy": {
+                "userId": "QAVELZ5SFYWY",
+                "userName": "lior.gerling@autodesk.com",
+                "firstName": "Lior",
+                "lastName": "Gerling",
+                "email": "lior.gerling@autodesk.com"
+            },
+            "Owner": {
+                "userId": "QAVELZ5SFYWY",
+                "userName": "lior.gerling@autodesk.com",
+                "firstName": "Lior",
+                "lastName": "Gerling",
+                "email": "lior.gerling@autodesk.com"
+            },
+            "folderPath": "/root",
+            "SharedWithYou": "true"
+        },
+        {
+            "Attributes": {
+                "Attribute": [
+                    {
+                        "name": "x-ads-meta-translation-status",
+                        "value": "5b6be472ea5c4f6db08b9b736a41e080"
+                    }
+                ]
+            },
+            "name": "2010.dwf",
+            "id": "fca933ee1b8b45099426b54f35d68439",
+            "versionId": "5b6be472ea5c4f6db08b9b736a41e080",
+            "parentId": "root",
+            "ownerId": "79USJH52AUCJ",
+            "ownerName": "aysegul.yonet",
+            "serviceId": "my",
+            "sourceConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "modifiedByConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "created": "2015-12-11T22:59:33.684+00:00",
+            "modified": "2015-12-11T22:59:33.685+00:00",
+            "itemType": "file",
+            "fileSize": "9900",
+            "etag": "5ce19daba21192246d8fb9ac1547a137",
+            "mimeType": "drawing/x-dwf",
+            "Links": {
+                "Link": [
+                    {
+                        "name": "x580",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Afca933ee1b8b45099426b54f35d68439/firefly/png/01_thumb_580x580.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=6ALEgCfJm%2BjVzjvxxuu8Gz%2BYMp4%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x188",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Afca933ee1b8b45099426b54f35d68439/firefly/png/01_thumb_188x188.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=cPM3ymcqxne0aOYBkQGwFjXwh%2B4%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x120",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Afca933ee1b8b45099426b54f35d68439/firefly/png/01_thumb_120x120.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=hB9oeesav4nn9yFKrNzcCBHNRbY%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x58",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Afca933ee1b8b45099426b54f35d68439/firefly/png/01_thumb_58x58.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=KCfr0FzjRksP6fcz2ViEKjXbgcA%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "id": "2897ad3ec8e5e90f5b3ce9da07dde6fc",
+                        "name": "main",
+                        "rel": "manifest",
+                        "href": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/fca933ee1b8b45099426b54f35d68439/versions/5b6be472ea5c4f6db08b9b736a41e080/manifest?file=/translation/manifest.json",
+                        "type": "application/json",
+                        "order": "1"
+                    }
+                ]
+            },
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "root",
+                "objectType": "folder",
+                "objectName": "root"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    }
+                ]
+            },
+            "Owner": {
+                "userId": "79USJH52AUCJ",
+                "userName": "aysegul.yonet",
+                "firstName": "Aysegul",
+                "lastName": "Yonet",
+                "email": "aysegul.yonet@autodesk.com"
+            },
+            "translationStatuses": {
+                "TranslationStatus": [
+                    {
+                        "type": "FireflySubmitted",
+                        "isSuccess": true,
+                        "date": "2015-12-11T22:59:35.282+00:00"
+                    },
+                    {
+                        "type": "TranslationSubmitted",
+                        "isSuccess": true,
+                        "date": "2015-12-11T22:59:36.88+00:00"
+                    },
+                    {
+                        "type": "FireFly 2D data generation",
+                        "isSuccess": true,
+                        "date": "2015-12-11T22:59:43.252+00:00"
+                    },
+                    {
+                        "type": "FireFly 3D data generation",
+                        "isSuccess": true,
+                        "date": "2015-12-11T22:59:51.963+00:00"
+                    },
+                    {
+                        "type": "ThumbnailGenerated",
+                        "isSuccess": true
+                    },
+                    {
+                        "type": "TranslationCompleted",
+                        "isSuccess": true,
+                        "date": "2015-12-11T22:59:55.799+00:00"
+                    }
+                ]
+            },
+            "folderPath": "/root",
+            "DownloadUrl": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/fca933ee1b8b45099426b54f35d68439/versions/5b6be472ea5c4f6db08b9b736a41e080?Authorization=Bearer%20ehHm7IFuztU7ZLtfA%252BrBAX4cduw%253D",
+            "SharedWithYou": "false"
+        },
+        {
+            "Attributes": {
+                "Attribute": [
+                    {
+                        "name": "x-ads-meta-translation-status",
+                        "value": "6c5072f4cadc41a7a302e35fe05b25dc"
+                    }
+                ]
+            },
+            "name": "3DAdultFence.dwg",
+            "id": "cbc81258c59447b182d0cd4f13d75a3b",
+            "versionId": "6c5072f4cadc41a7a302e35fe05b25dc",
+            "parentId": "root",
+            "ownerId": "79USJH52AUCJ",
+            "ownerName": "aysegul.yonet",
+            "serviceId": "my",
+            "sourceConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "modifiedByConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "created": "2016-01-13T00:11:13.418+00:00",
+            "modified": "2016-01-13T19:22:36.68+00:00",
+            "itemType": "file",
+            "fileSize": "27540923",
+            "etag": "13db4488fade077d1838bac2d75e1f58",
+            "mimeType": "image/vnd.dwg",
+            "Links": {
+                "Link": [
+                    {
+                        "name": "x580",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Acbc81258c59447b182d0cd4f13d75a3b/firefly/png/01_thumb_580x580.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=V1dGq4iOD9G%2BMZ8joIc6M6h%2FgfU%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x188",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Acbc81258c59447b182d0cd4f13d75a3b/firefly/png/01_thumb_188x188.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=YczpdAZd6Ptm0dI%2FjhZ9mu02L8w%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x120",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Acbc81258c59447b182d0cd4f13d75a3b/firefly/png/01_thumb_120x120.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=cby9TePSHetFb7uc7KFQos%2BmmX0%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x58",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Acbc81258c59447b182d0cd4f13d75a3b/firefly/png/01_thumb_58x58.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=cCJNkSmfaWh3CqejsFgxcRNgsu0%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x580",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Acbc81258c59447b182d0cd4f13d75a3b/firefly/png/02_thumb_580x580.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=hrHTET35%2FgYGnQaBBdvxjxtcwNs%3D",
+                        "type": "image/png",
+                        "order": "2"
+                    },
+                    {
+                        "name": "x188",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Acbc81258c59447b182d0cd4f13d75a3b/firefly/png/02_thumb_188x188.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=O2z62tB%2BphpLA5fz8iXjbU28NwU%3D",
+                        "type": "image/png",
+                        "order": "2"
+                    },
+                    {
+                        "name": "x120",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Acbc81258c59447b182d0cd4f13d75a3b/firefly/png/02_thumb_120x120.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=C1XHE7The1FFbR4jMzca%2BHjNZx8%3D",
+                        "type": "image/png",
+                        "order": "2"
+                    },
+                    {
+                        "name": "x58",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Acbc81258c59447b182d0cd4f13d75a3b/firefly/png/02_thumb_58x58.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=GRQIAcepVDum5Cc00Erv3EgaPkw%3D",
+                        "type": "image/png",
+                        "order": "2"
+                    },
+                    {
+                        "id": "a5048c96935c20f8039b6f282fd69c8f",
+                        "name": "main",
+                        "rel": "manifest",
+                        "href": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/cbc81258c59447b182d0cd4f13d75a3b/versions/6c5072f4cadc41a7a302e35fe05b25dc/manifest?file=/translation/manifest.json",
+                        "type": "application/json",
+                        "order": "1"
+                    }
+                ]
+            },
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "root",
+                "objectType": "folder",
+                "objectName": "root"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    }
+                ]
+            },
+            "Owner": {
+                "userId": "79USJH52AUCJ",
+                "userName": "aysegul.yonet",
+                "firstName": "Aysegul",
+                "lastName": "Yonet",
+                "email": "aysegul.yonet@autodesk.com"
+            },
+            "translationStatuses": {
+                "TranslationStatus": [
+                    {
+                        "type": "TranslationSubmitted",
+                        "isSuccess": true,
+                        "date": "2016-01-13T19:22:39.309+00:00"
+                    },
+                    {
+                        "type": "FireflySubmitted",
+                        "isSuccess": true,
+                        "date": "2016-01-13T19:22:39.324+00:00"
+                    },
+                    {
+                        "type": "FireFly 2D data generation",
+                        "isSuccess": true,
+                        "date": "2016-01-13T19:23:04.436+00:00"
+                    },
+                    {
+                        "type": "ThumbnailGenerated",
+                        "isSuccess": true
+                    },
+                    {
+                        "type": "TranslationCompleted",
+                        "isSuccess": true,
+                        "date": "2016-01-13T19:23:22.988+00:00"
+                    }
+                ]
+            },
+            "folderPath": "/root",
+            "DownloadUrl": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/cbc81258c59447b182d0cd4f13d75a3b/versions/6c5072f4cadc41a7a302e35fe05b25dc?Authorization=Bearer%20ehHm7IFuztU7ZLtfA%252BrBAX4cduw%253D",
+            "SharedWithYou": "false"
+        },
+        {
+            "Attributes": {
+                "Attribute": [
+                    {
+                        "name": "x-ads-meta-translation-status",
+                        "value": "9be9d41145a145ad9d63b03e22f8e7bf"
+                    }
+                ]
+            },
+            "name": "_PK46.37.00.000test.collaboration",
+            "id": "8ec58a4dbe194e1dbe5491e69369c1cb",
+            "versionId": "9be9d41145a145ad9d63b03e22f8e7bf",
+            "parentId": "root",
+            "ownerId": "N7D6KAUHL2DF",
+            "ownerName": "driveusertestfusiononlystg",
+            "serviceId": "my",
+            "sourceConsumerId": "697ef507-e285-4c98-ae9c-15e9fb279743",
+            "modifiedByConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "created": "2015-12-14T07:49:13.649+00:00",
+            "modified": "2015-12-14T07:49:13.65+00:00",
+            "itemType": "file",
+            "fileSize": "2202624",
+            "etag": "5a0e4d88f10bb9a1e87890bbd40e278f",
+            "mimeType": "application/octet-stream",
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    },
+                    {
+                        "object": {
+                            "objectId": "7d3a81eaf0014bd7a911cf2676a81bc5",
+                            "objectType": "folder",
+                            "objectName": "Inventor Design Shares"
+                        },
+                        "ordinal": "1"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "7d3a81eaf0014bd7a911cf2676a81bc5",
+                "objectType": "folder",
+                "objectName": "Inventor Design Shares"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "N7D6KAUHL2DF",
+                            "userName": "driveusertestfusiononlystg",
+                            "firstName": "drive",
+                            "lastName": "fusiononly",
+                            "email": "driveusertest+fusiononlystg@gmail.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    },
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view"
+                        ]
+                    }
+                ]
+            },
+            "SharedBy": {
+                "userId": "N7D6KAUHL2DF",
+                "userName": "driveusertestfusiononlystg",
+                "firstName": "drive",
+                "lastName": "fusiononly",
+                "email": "driveusertest+fusiononlystg@gmail.com"
+            },
+            "Owner": {
+                "userId": "N7D6KAUHL2DF",
+                "userName": "driveusertestfusiononlystg",
+                "firstName": "drive",
+                "lastName": "fusiononly",
+                "email": "driveusertest+fusiononlystg@gmail.com"
+            },
+            "folderPath": "/root",
+            "DownloadUrl": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/8ec58a4dbe194e1dbe5491e69369c1cb/versions/9be9d41145a145ad9d63b03e22f8e7bf?Authorization=Bearer%20ehHm7IFuztU7ZLtfA%252BrBAX4cduw%253D",
+            "SharedWithYou": "true"
+        },
+        {
+            "Attributes": {
+                "Attribute": [
+                    {
+                        "name": "x-ads-meta-translation-status",
+                        "value": "338b7a1b28d745af917b1606b157a20f"
+                    }
+                ]
+            },
+            "name": "analyze-2-DA.dwf",
+            "id": "498befe7fbb843219dc80fd2713ce292",
+            "versionId": "338b7a1b28d745af917b1606b157a20f",
+            "parentId": "root",
+            "ownerId": "79USJH52AUCJ",
+            "ownerName": "aysegul.yonet",
+            "serviceId": "my",
+            "sourceConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "modifiedByConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "created": "2016-01-27T01:30:27.873+00:00",
+            "modified": "2016-02-08T22:01:58.696+00:00",
+            "itemType": "file",
+            "fileSize": "37321",
+            "etag": "c69a999d73bde1f402156c52e9471ec0",
+            "mimeType": "drawing/x-dwf",
+            "Links": {
+                "Link": [
+                    {
+                        "id": "71f30fb10e574b6abb3bfc842a120018",
+                        "name": "main",
+                        "rel": "manifest",
+                        "href": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/498befe7fbb843219dc80fd2713ce292/versions/338b7a1b28d745af917b1606b157a20f/manifest?file=/translation/manifest.json",
+                        "type": "application/json",
+                        "order": "1"
+                    }
+                ]
+            },
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "root",
+                "objectType": "folder",
+                "objectName": "root"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    }
+                ]
+            },
+            "Owner": {
+                "userId": "79USJH52AUCJ",
+                "userName": "aysegul.yonet",
+                "firstName": "Aysegul",
+                "lastName": "Yonet",
+                "email": "aysegul.yonet@autodesk.com"
+            },
+            "translationStatuses": {
+                "TranslationStatus": [
+                    {
+                        "type": "FireflySubmitted",
+                        "isSuccess": true,
+                        "date": "2016-02-08T22:02:17.126+00:00"
+                    },
+                    {
+                        "type": "TranslationSubmitted",
+                        "isSuccess": true,
+                        "date": "2016-02-08T22:02:19.231+00:00"
+                    },
+                    {
+                        "type": "TranslationCompleted",
+                        "isSuccess": true,
+                        "date": "2016-02-08T22:02:36.788+00:00"
+                    }
+                ]
+            },
+            "folderPath": "/root",
+            "DownloadUrl": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/498befe7fbb843219dc80fd2713ce292/versions/338b7a1b28d745af917b1606b157a20f?Authorization=Bearer%20ehHm7IFuztU7ZLtfA%252BrBAX4cduw%253D",
+            "SharedWithYou": "false"
+        },
+        {
+            "Attributes": {
+                "Attribute": [
+                    {
+                        "name": "x-ads-meta-translation-status",
+                        "value": "65741c87695f4486accaf3f70639e207"
+                    }
+                ]
+            },
+            "name": "architectural_-_annotation_scaling_and_multileaders.dwg",
+            "id": "1a3c6fc14d3a4e5a812945e3f8c17189",
+            "versionId": "65741c87695f4486accaf3f70639e207",
+            "parentId": "root",
+            "ownerId": "79USJH52AUCJ",
+            "ownerName": "aysegul.yonet",
+            "serviceId": "my",
+            "sourceConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "modifiedByConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "created": "2016-01-13T18:22:53.423+00:00",
+            "modified": "2016-01-15T03:01:53.152+00:00",
+            "itemType": "file",
+            "fileSize": "188992",
+            "etag": "b74482b337fa465a481f930bc5d249bb",
+            "mimeType": "image/vnd.dwg",
+            "Links": {
+                "Link": [
+                    {
+                        "name": "x580",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A1a3c6fc14d3a4e5a812945e3f8c17189/firefly/png/01_thumb_580x580.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=NvqTDsFAAnnN%2B4aaQ7WRIpAB3b8%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x188",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A1a3c6fc14d3a4e5a812945e3f8c17189/firefly/png/01_thumb_188x188.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=UIouqQ5JV51HkdsF6QN%2FGI6aPpM%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x120",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A1a3c6fc14d3a4e5a812945e3f8c17189/firefly/png/01_thumb_120x120.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=LoxSnlT0HdYf%2FUKdqd1TgbCqm8Y%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x58",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A1a3c6fc14d3a4e5a812945e3f8c17189/firefly/png/01_thumb_58x58.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=WFCXN5fpPJifoFhAW%2BxeILfN%2FyE%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x580",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A1a3c6fc14d3a4e5a812945e3f8c17189/firefly/png/02_thumb_580x580.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=WC%2B7I9Xo0CqOA59p7VQ6jZd9pqo%3D",
+                        "type": "image/png",
+                        "order": "2"
+                    },
+                    {
+                        "name": "x188",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A1a3c6fc14d3a4e5a812945e3f8c17189/firefly/png/02_thumb_188x188.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=WlFxk8GzAOnjzjLZsWl3xzk5D40%3D",
+                        "type": "image/png",
+                        "order": "2"
+                    },
+                    {
+                        "name": "x120",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A1a3c6fc14d3a4e5a812945e3f8c17189/firefly/png/02_thumb_120x120.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=yx4hxEExBjWFQIsW9LaZhChxubQ%3D",
+                        "type": "image/png",
+                        "order": "2"
+                    },
+                    {
+                        "name": "x58",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A1a3c6fc14d3a4e5a812945e3f8c17189/firefly/png/02_thumb_58x58.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=u0zgFhU3EnOnB6v5PtmDdSoboSM%3D",
+                        "type": "image/png",
+                        "order": "2"
+                    },
+                    {
+                        "id": "2bfb9a6993803b17fe792b6628c4e412",
+                        "name": "main",
+                        "rel": "manifest",
+                        "href": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/1a3c6fc14d3a4e5a812945e3f8c17189/versions/65741c87695f4486accaf3f70639e207/manifest?file=/translation/manifest.json",
+                        "type": "application/json",
+                        "order": "1"
+                    }
+                ]
+            },
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "root",
+                "objectType": "folder",
+                "objectName": "root"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    }
+                ]
+            },
+            "Owner": {
+                "userId": "79USJH52AUCJ",
+                "userName": "aysegul.yonet",
+                "firstName": "Aysegul",
+                "lastName": "Yonet",
+                "email": "aysegul.yonet@autodesk.com"
+            },
+            "translationStatuses": {
+                "TranslationStatus": [
+                    {
+                        "type": "TranslationSubmitted",
+                        "isSuccess": true,
+                        "date": "2016-01-15T03:01:57.1+00:00"
+                    },
+                    {
+                        "type": "FireflySubmitted",
+                        "isSuccess": true,
+                        "date": "2016-01-15T03:01:57.133+00:00"
+                    },
+                    {
+                        "type": "FireFly 2D data generation",
+                        "isSuccess": true,
+                        "date": "2016-01-15T03:03:27.942+00:00"
+                    },
+                    {
+                        "type": "ThumbnailGenerated",
+                        "isSuccess": true
+                    },
+                    {
+                        "type": "TranslationCompleted",
+                        "isSuccess": true,
+                        "date": "2016-01-15T03:03:46.433+00:00"
+                    }
+                ]
+            },
+            "folderPath": "/root",
+            "DownloadUrl": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/1a3c6fc14d3a4e5a812945e3f8c17189/versions/65741c87695f4486accaf3f70639e207?Authorization=Bearer%20ehHm7IFuztU7ZLtfA%252BrBAX4cduw%253D",
+            "SharedWithYou": "false"
+        },
+        {
+            "Attributes": {
+                "Attribute": [
+                    {
+                        "name": "x-ads-meta-translation-status",
+                        "value": "56a16741d37e40609b02916e55687a5d"
+                    }
+                ]
+            },
+            "name": "buddha.obj",
+            "id": "56d6266557a348b18a6b7c0ddb78c184",
+            "versionId": "56a16741d37e40609b02916e55687a5d",
+            "parentId": "root",
+            "ownerId": "79USJH52AUCJ",
+            "ownerName": "aysegul.yonet",
+            "serviceId": "my",
+            "sourceConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "modifiedByConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "created": "2016-01-20T20:11:44.691+00:00",
+            "modified": "2016-01-29T01:34:00.712+00:00",
+            "itemType": "file",
+            "fileSize": "93037243",
+            "etag": "4910dd2aeca4532333eba967284a893f",
+            "mimeType": "application/octet-stream",
+            "Links": {
+                "Link": [
+                    {
+                        "id": "b4e295bbe5e9a93467b5449dccf5ee2d",
+                        "name": "main",
+                        "rel": "manifest",
+                        "href": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/56d6266557a348b18a6b7c0ddb78c184/versions/56a16741d37e40609b02916e55687a5d/manifest?file=/translation/manifest.json",
+                        "type": "application/json",
+                        "order": "1"
+                    }
+                ]
+            },
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "root",
+                "objectType": "folder",
+                "objectName": "root"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    }
+                ]
+            },
+            "Owner": {
+                "userId": "79USJH52AUCJ",
+                "userName": "aysegul.yonet",
+                "firstName": "Aysegul",
+                "lastName": "Yonet",
+                "email": "aysegul.yonet@autodesk.com"
+            },
+            "translationStatuses": {
+                "TranslationStatus": [
+                    {
+                        "type": "TranslationSubmitted",
+                        "isSuccess": true,
+                        "date": "2016-01-29T01:34:01.896+00:00"
+                    },
+                    {
+                        "type": "FireflySubmitted",
+                        "isSuccess": true,
+                        "date": "2016-01-29T01:34:05.002+00:00"
+                    },
+                    {
+                        "type": "TranslationCompleted",
+                        "isSuccess": true,
+                        "date": "2016-01-29T01:34:30.196+00:00"
+                    },
+                    {
+                        "type": "FireFly 3D data generation",
+                        "isSuccess": true,
+                        "date": "2016-01-29T01:34:34.471+00:00"
+                    }
+                ]
+            },
+            "folderPath": "/root",
+            "DownloadUrl": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/56d6266557a348b18a6b7c0ddb78c184/versions/56a16741d37e40609b02916e55687a5d?Authorization=Bearer%20ehHm7IFuztU7ZLtfA%252BrBAX4cduw%253D",
+            "SharedWithYou": "false"
+        },
+        {
+            "Attributes": {
+                "Attribute": [
+                    {
+                        "name": "x-ads-meta-translation-status",
+                        "value": "7c5501e0f019480b8dd2635fb0114e68"
+                    }
+                ]
+            },
+            "name": "cam1.fusion",
+            "id": "9a0795fda256457a9a4b432e976ace7a",
+            "versionId": "7c5501e0f019480b8dd2635fb0114e68",
+            "parentId": "root",
+            "ownerId": "79USJH52AUCJ",
+            "ownerName": "aysegul.yonet",
+            "serviceId": "my",
+            "sourceConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "modifiedByConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "created": "2015-12-11T23:00:00.219+00:00",
+            "modified": "2015-12-11T23:00:00.22+00:00",
+            "itemType": "file",
+            "fileSize": "289822",
+            "etag": "d833eb4e6b9c6d81bed7e323b228f353",
+            "mimeType": "application/octet-stream",
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "root",
+                "objectType": "folder",
+                "objectName": "root"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    }
+                ]
+            },
+            "Owner": {
+                "userId": "79USJH52AUCJ",
+                "userName": "aysegul.yonet",
+                "firstName": "Aysegul",
+                "lastName": "Yonet",
+                "email": "aysegul.yonet@autodesk.com"
+            },
+            "folderPath": "/root",
+            "DownloadUrl": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/9a0795fda256457a9a4b432e976ace7a/versions/7c5501e0f019480b8dd2635fb0114e68?Authorization=Bearer%20ehHm7IFuztU7ZLtfA%252BrBAX4cduw%253D",
+            "SharedWithYou": "false"
+        },
+        {
+            "Attributes": {
+                "Attribute": [
+                    {
+                        "name": "x-ads-meta-translation-status",
+                        "value": "9c7d7848f3414dfbad3a30e6e36d430d"
+                    }
+                ]
+            },
+            "name": "CarriageBase_all_disable.dwf",
+            "id": "dcd71b43a97947d5be71dbd515aa7748",
+            "versionId": "9c7d7848f3414dfbad3a30e6e36d430d",
+            "parentId": "root",
+            "ownerId": "79USJH52AUCJ",
+            "ownerName": "aysegul.yonet",
+            "serviceId": "my",
+            "sourceConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "modifiedByConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "created": "2016-01-20T18:46:32.114+00:00",
+            "modified": "2016-01-21T18:45:38.036+00:00",
+            "itemType": "file",
+            "fileSize": "9332",
+            "etag": "9b1637728de5c7c00336ed1c62d76229",
+            "mimeType": "drawing/x-dwf",
+            "Links": {
+                "Link": [
+                    {
+                        "id": "31ba548952752e9115aaa154d135dbc6",
+                        "name": "main",
+                        "rel": "manifest",
+                        "href": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/dcd71b43a97947d5be71dbd515aa7748/versions/9c7d7848f3414dfbad3a30e6e36d430d/manifest?file=/translation/manifest.json",
+                        "type": "application/json",
+                        "order": "1"
+                    }
+                ]
+            },
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "root",
+                "objectType": "folder",
+                "objectName": "root"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    }
+                ]
+            },
+            "Owner": {
+                "userId": "79USJH52AUCJ",
+                "userName": "aysegul.yonet",
+                "firstName": "Aysegul",
+                "lastName": "Yonet",
+                "email": "aysegul.yonet@autodesk.com"
+            },
+            "translationStatuses": {
+                "TranslationStatus": [
+                    {
+                        "type": "TranslationSubmitted",
+                        "isSuccess": true,
+                        "date": "2016-01-21T18:45:40.538+00:00"
+                    },
+                    {
+                        "type": "FireflySubmitted",
+                        "isSuccess": true,
+                        "date": "2016-01-21T18:45:40.563+00:00"
+                    },
+                    {
+                        "type": "TranslationCompleted",
+                        "isSuccess": true,
+                        "date": "2016-01-21T18:45:56.005+00:00"
+                    }
+                ]
+            },
+            "folderPath": "/root",
+            "DownloadUrl": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/dcd71b43a97947d5be71dbd515aa7748/versions/9c7d7848f3414dfbad3a30e6e36d430d?Authorization=Bearer%20ehHm7IFuztU7ZLtfA%252BrBAX4cduw%253D",
+            "SharedWithYou": "false"
+        },
+        {
+            "Attributes": {
+                "Attribute": [
+                    {
+                        "name": "x-ads-meta-translation-status",
+                        "value": "c6c431aba738471db1d8c69134fb2f35"
+                    }
+                ]
+            },
+            "name": "Cartriage.f3d",
+            "id": "3511495edc8f45d1aa84fa0ba18ef5c6",
+            "versionId": "c6c431aba738471db1d8c69134fb2f35",
+            "parentId": "root",
+            "ownerId": "79USJH52AUCJ",
+            "ownerName": "aysegul.yonet",
+            "serviceId": "my",
+            "sourceConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "modifiedByConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "created": "2016-01-26T21:45:01.776+00:00",
+            "modified": "2016-01-26T21:45:01.777+00:00",
+            "itemType": "file",
+            "fileSize": "156260",
+            "etag": "4a9be54d6f385fa9426006e67923df45",
+            "mimeType": "application/octet-stream",
+            "Links": {
+                "Link": [
+                    {
+                        "name": "x58",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A3511495edc8f45d1aa84fa0ba18ef5c6/fusion/png/01_thumb_58x58.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=D1Ofk7klE1g%2FRyFwITQvGHrQOS4%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x120",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A3511495edc8f45d1aa84fa0ba18ef5c6/fusion/png/01_thumb_120x120.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=ZQCW%2BTLitM9EHEMa0kc2BBWy5iY%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x188",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A3511495edc8f45d1aa84fa0ba18ef5c6/fusion/png/01_thumb_188x188.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=h7C7szBI30tXonQ%2BG9T%2F5wx9d3c%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x580",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A3511495edc8f45d1aa84fa0ba18ef5c6/fusion/png/01_thumb_580x580.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=QeY3%2FdrdBrTjDKzdPfU4%2BPXzfeQ%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "id": "13208a96ca0d65877154c63034852be9",
+                        "name": "main",
+                        "rel": "manifest",
+                        "href": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/3511495edc8f45d1aa84fa0ba18ef5c6/versions/c6c431aba738471db1d8c69134fb2f35/manifest?file=/translation/manifest.json",
+                        "type": "application/json",
+                        "order": "1"
+                    }
+                ]
+            },
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "root",
+                "objectType": "folder",
+                "objectName": "root"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    }
+                ]
+            },
+            "Owner": {
+                "userId": "79USJH52AUCJ",
+                "userName": "aysegul.yonet",
+                "firstName": "Aysegul",
+                "lastName": "Yonet",
+                "email": "aysegul.yonet@autodesk.com"
+            },
+            "translationStatuses": {
+                "TranslationStatus": [
+                    {
+                        "type": "TranslationSubmitted",
+                        "isSuccess": true,
+                        "date": "2016-01-26T21:45:05.391+00:00"
+                    },
+                    {
+                        "type": "FireflySubmitted",
+                        "isSuccess": true,
+                        "date": "2016-01-26T21:45:05.393+00:00"
+                    },
+                    {
+                        "type": "ThumbnailGenerated",
+                        "isSuccess": true
+                    },
+                    {
+                        "type": "F3D -> TPF data generation",
+                        "isSuccess": true,
+                        "date": "2016-01-26T21:45:20.943+00:00"
+                    },
+                    {
+                        "type": "FireFly 3D data generation",
+                        "isSuccess": true,
+                        "date": "2016-01-26T21:45:28.331+00:00"
+                    },
+                    {
+                        "type": "TranslationCompleted",
+                        "isSuccess": true,
+                        "date": "2016-01-26T21:45:30.251+00:00"
+                    }
+                ]
+            },
+            "folderPath": "/root",
+            "DownloadUrl": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/3511495edc8f45d1aa84fa0ba18ef5c6/versions/c6c431aba738471db1d8c69134fb2f35?Authorization=Bearer%20ehHm7IFuztU7ZLtfA%252BrBAX4cduw%253D",
+            "SharedWithYou": "false"
+        },
+        {
+            "Attributes": {
+                "Attribute": [
+                    {
+                        "name": "x-ads-meta-translation-status",
+                        "value": "468487e5ab844794894404f2b3c44667"
+                    }
+                ]
+            },
+            "name": "corrupted.dwf",
+            "id": "4ea5b82afe04467d99715a3f55f3dae0",
+            "versionId": "468487e5ab844794894404f2b3c44667",
+            "parentId": "root",
+            "ownerId": "79USJH52AUCJ",
+            "ownerName": "aysegul.yonet",
+            "serviceId": "my",
+            "sourceConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "modifiedByConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "created": "2016-02-08T21:48:44.131+00:00",
+            "modified": "2016-02-08T21:48:44.132+00:00",
+            "itemType": "file",
+            "fileSize": "637952",
+            "etag": "a74a02af553c9acef3a6a796298e1ee3",
+            "mimeType": "drawing/x-dwf",
+            "Links": {
+                "Link": [
+                    {
+                        "id": "ef8ec02e26a7ba8061e8c2118cc5af86",
+                        "name": "main",
+                        "rel": "manifest",
+                        "href": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/4ea5b82afe04467d99715a3f55f3dae0/versions/468487e5ab844794894404f2b3c44667/manifest?file=/translation/manifest.json",
+                        "type": "application/json",
+                        "order": "1"
+                    }
+                ]
+            },
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "root",
+                "objectType": "folder",
+                "objectName": "root"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    }
+                ]
+            },
+            "Owner": {
+                "userId": "79USJH52AUCJ",
+                "userName": "aysegul.yonet",
+                "firstName": "Aysegul",
+                "lastName": "Yonet",
+                "email": "aysegul.yonet@autodesk.com"
+            },
+            "translationStatuses": {
+                "TranslationStatus": [
+                    {
+                        "type": "FireflySubmitted",
+                        "isSuccess": true,
+                        "date": "2016-02-08T21:49:10.102+00:00"
+                    },
+                    {
+                        "type": "TranslationSubmitted",
+                        "isSuccess": true,
+                        "date": "2016-02-08T21:49:10.11+00:00"
+                    },
+                    {
+                        "type": "TranslationCompleted",
+                        "isSuccess": true,
+                        "date": "2016-02-08T21:49:40.496+00:00"
+                    }
+                ]
+            },
+            "folderPath": "/root",
+            "DownloadUrl": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/4ea5b82afe04467d99715a3f55f3dae0/versions/468487e5ab844794894404f2b3c44667?Authorization=Bearer%20ehHm7IFuztU7ZLtfA%252BrBAX4cduw%253D",
+            "SharedWithYou": "false"
+        },
+        {
+            "name": "COVER2.PDF",
+            "id": "079c19ff8f0a4ebb89dc961be755a1b7",
+            "versionId": "11474a31f89449d88314cf294b17a73a",
+            "parentId": "root",
+            "ownerId": "79USJH52AUCJ",
+            "ownerName": "aysegul.yonet",
+            "serviceId": "my",
+            "sourceConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "modifiedByConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "created": "2016-03-12T00:08:04.63+00:00",
+            "modified": "2016-03-16T18:01:35.205+00:00",
+            "itemType": "file",
+            "fileSize": "339202",
+            "etag": "daf0a1d3fdb1ec1645d3b4018d802e88",
+            "mimeType": "application/octet-stream",
+            "Links": {
+                "Link": [
+                    {
+                        "id": "1",
+                        "name": "x58",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/com.autodesk.storage.staging/79USJH52AUCJ/my/root/079c19ff8f0a4ebb89dc961be755a1b7-11474a31f89449d88314cf294b17a73a/thumbnail/2d/1/58x58.jpg?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=rjFjzC6hKpd77tbvUv7q0LyNZpQ%3D",
+                        "type": "image/jpeg",
+                        "order": "1",
+                        "view": "2d"
+                    },
+                    {
+                        "id": "1",
+                        "name": "x120",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/com.autodesk.storage.staging/79USJH52AUCJ/my/root/079c19ff8f0a4ebb89dc961be755a1b7-11474a31f89449d88314cf294b17a73a/thumbnail/2d/1/120x120.jpg?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=jnXSg4A36Mmgs99f5Ys3Wete8%2Fs%3D",
+                        "type": "image/jpeg",
+                        "order": "1",
+                        "view": "2d"
+                    },
+                    {
+                        "id": "1",
+                        "name": "x188",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/com.autodesk.storage.staging/79USJH52AUCJ/my/root/079c19ff8f0a4ebb89dc961be755a1b7-11474a31f89449d88314cf294b17a73a/thumbnail/2d/1/188x188.jpg?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=nKDB%2Fg86uo86i6Go22RoVogimNI%3D",
+                        "type": "image/jpeg",
+                        "order": "1",
+                        "view": "2d"
+                    },
+                    {
+                        "id": "1",
+                        "name": "x580",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/com.autodesk.storage.staging/79USJH52AUCJ/my/root/079c19ff8f0a4ebb89dc961be755a1b7-11474a31f89449d88314cf294b17a73a/thumbnail/2d/1/580x580.jpg?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=v302%2FeYnlO4%2FB%2BpFkDys6dzGm9M%3D",
+                        "type": "image/jpeg",
+                        "order": "1",
+                        "view": "2d"
+                    }
+                ]
+            },
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "root",
+                "objectType": "folder",
+                "objectName": "root"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    }
+                ]
+            },
+            "Owner": {
+                "userId": "79USJH52AUCJ",
+                "userName": "aysegul.yonet",
+                "firstName": "Aysegul",
+                "lastName": "Yonet",
+                "email": "aysegul.yonet@autodesk.com"
+            },
+            "translationStatuses": {
+                "TranslationStatus": [
+                    {
+                        "type": "TranslationSubmitted",
+                        "isSuccess": true,
+                        "date": "2016-03-16T18:01:35.326+00:00"
+                    },
+                    {
+                        "type": "ThumbnailGenerated",
+                        "isSuccess": true,
+                        "date": "2016-03-16T18:01:41.087+00:00"
+                    },
+                    {
+                        "type": "TranslationCompleted",
+                        "isSuccess": true,
+                        "date": "2016-03-16T18:01:41.087+00:00"
+                    }
+                ]
+            },
+            "folderPath": "/root",
+            "DownloadUrl": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/079c19ff8f0a4ebb89dc961be755a1b7/versions/11474a31f89449d88314cf294b17a73a?Authorization=Bearer%20ehHm7IFuztU7ZLtfA%252BrBAX4cduw%253D",
+            "SharedWithYou": "false"
+        },
+        {
+            "Attributes": {
+                "Attribute": [
+                    {
+                        "name": "x-ads-meta-translation-status",
+                        "value": "f8fb19d307594ffd83c4cf83bd8fb42c"
+                    }
+                ]
+            },
+            "name": "Frame234.collaboration",
+            "id": "315fb4fdcea4498b9366b49f78cdfa8b",
+            "versionId": "f8fb19d307594ffd83c4cf83bd8fb42c",
+            "parentId": "root",
+            "ownerId": "N7D6KAUHL2DF",
+            "ownerName": "driveusertestfusiononlystg",
+            "serviceId": "my",
+            "sourceConsumerId": "697ef507-e285-4c98-ae9c-15e9fb279743",
+            "modifiedByConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "created": "2015-12-14T07:28:30.895+00:00",
+            "modified": "2015-12-14T07:28:30.896+00:00",
+            "itemType": "file",
+            "fileSize": "402432",
+            "etag": "9c59da22efdb00e7f898dc4cd7eaac24",
+            "mimeType": "application/octet-stream",
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    },
+                    {
+                        "object": {
+                            "objectId": "7d3a81eaf0014bd7a911cf2676a81bc5",
+                            "objectType": "folder",
+                            "objectName": "Inventor Design Shares"
+                        },
+                        "ordinal": "1"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "7d3a81eaf0014bd7a911cf2676a81bc5",
+                "objectType": "folder",
+                "objectName": "Inventor Design Shares"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "N7D6KAUHL2DF",
+                            "userName": "driveusertestfusiononlystg",
+                            "firstName": "drive",
+                            "lastName": "fusiononly",
+                            "email": "driveusertest+fusiononlystg@gmail.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    },
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view"
+                        ]
+                    },
+                    {
+                        "user": {
+                            "userId": "TH98N5K4DDR7",
+                            "userName": "driveusertest",
+                            "firstName": "drive",
+                            "lastName": "test",
+                            "email": "driveusertest@gmail.com"
+                        },
+                        "levels": [
+                            "view"
+                        ]
+                    }
+                ]
+            },
+            "SharedBy": {
+                "userId": "N7D6KAUHL2DF",
+                "userName": "driveusertestfusiononlystg",
+                "firstName": "drive",
+                "lastName": "fusiononly",
+                "email": "driveusertest+fusiononlystg@gmail.com"
+            },
+            "Owner": {
+                "userId": "N7D6KAUHL2DF",
+                "userName": "driveusertestfusiononlystg",
+                "firstName": "drive",
+                "lastName": "fusiononly",
+                "email": "driveusertest+fusiononlystg@gmail.com"
+            },
+            "folderPath": "/root",
+            "DownloadUrl": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/315fb4fdcea4498b9366b49f78cdfa8b/versions/f8fb19d307594ffd83c4cf83bd8fb42c?Authorization=Bearer%20ehHm7IFuztU7ZLtfA%252BrBAX4cduw%253D",
+            "SharedWithYou": "true"
+        },
+        {
+            "Attributes": {
+                "Attribute": [
+                    {
+                        "name": "x-ads-meta-translation-status",
+                        "value": "8e3593c4b45242788573d6d099ddcb27"
+                    }
+                ]
+            },
+            "name": "glass_p.dwf",
+            "id": "8172b6caa9df4e109ad79f2d34827e16",
+            "versionId": "8e3593c4b45242788573d6d099ddcb27",
+            "parentId": "root",
+            "ownerId": "79USJH52AUCJ",
+            "ownerName": "aysegul.yonet",
+            "serviceId": "my",
+            "sourceConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "modifiedByConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "created": "2016-01-22T00:55:39.986+00:00",
+            "modified": "2016-01-22T00:55:39.986+00:00",
+            "itemType": "file",
+            "fileSize": "9177",
+            "etag": "25fc817e486aacfc7ed6fe0f00539698",
+            "mimeType": "drawing/x-dwf",
+            "Links": {
+                "Link": [
+                    {
+                        "name": "x580",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A8172b6caa9df4e109ad79f2d34827e16/firefly/png/01_thumb_580x580.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=lZyuNnrSIN7Hy3XPD1N0VGK8gZs%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x188",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A8172b6caa9df4e109ad79f2d34827e16/firefly/png/01_thumb_188x188.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=tkrXnNlcHOpTBBl3KhGFP2FrLI0%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x120",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A8172b6caa9df4e109ad79f2d34827e16/firefly/png/01_thumb_120x120.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=%2FVOq5vlDPcYBHUvuwYBnPrIwea8%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x58",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A8172b6caa9df4e109ad79f2d34827e16/firefly/png/01_thumb_58x58.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=On1%2BMs50IiGDfXKuyj9jqwtIP2o%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "id": "0b4d6fececcd8a1477bce735414cbe2e",
+                        "name": "main",
+                        "rel": "manifest",
+                        "href": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/8172b6caa9df4e109ad79f2d34827e16/versions/8e3593c4b45242788573d6d099ddcb27/manifest?file=/translation/manifest.json",
+                        "type": "application/json",
+                        "order": "1"
+                    }
+                ]
+            },
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "root",
+                "objectType": "folder",
+                "objectName": "root"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    }
+                ]
+            },
+            "Owner": {
+                "userId": "79USJH52AUCJ",
+                "userName": "aysegul.yonet",
+                "firstName": "Aysegul",
+                "lastName": "Yonet",
+                "email": "aysegul.yonet@autodesk.com"
+            },
+            "translationStatuses": {
+                "TranslationStatus": [
+                    {
+                        "type": "FireflySubmitted",
+                        "isSuccess": true,
+                        "date": "2016-01-22T00:55:42.369+00:00"
+                    },
+                    {
+                        "type": "TranslationSubmitted",
+                        "isSuccess": true,
+                        "date": "2016-01-22T00:55:42.37+00:00"
+                    },
+                    {
+                        "type": "FireFly 2D data generation",
+                        "isSuccess": true,
+                        "date": "2016-01-22T00:55:48.663+00:00"
+                    },
+                    {
+                        "type": "FireFly 3D data generation",
+                        "isSuccess": true,
+                        "date": "2016-01-22T00:56:26.967+00:00"
+                    },
+                    {
+                        "type": "ThumbnailGenerated",
+                        "isSuccess": true
+                    },
+                    {
+                        "type": "TranslationCompleted",
+                        "isSuccess": true,
+                        "date": "2016-01-22T00:56:32.167+00:00"
+                    }
+                ]
+            },
+            "folderPath": "/root",
+            "DownloadUrl": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/8172b6caa9df4e109ad79f2d34827e16/versions/8e3593c4b45242788573d6d099ddcb27?Authorization=Bearer%20ehHm7IFuztU7ZLtfA%252BrBAX4cduw%253D",
+            "SharedWithYou": "false"
+        },
+        {
+            "Attributes": {
+                "Attribute": [
+                    {
+                        "name": "x-ads-meta-translation-status",
+                        "value": "4173f7398f5540d0a6b82cb654ca9916"
+                    }
+                ]
+            },
+            "name": "google_glass.f3d",
+            "id": "69deca9435b64274bc450604243321a7",
+            "versionId": "4173f7398f5540d0a6b82cb654ca9916",
+            "parentId": "root",
+            "ownerId": "79USJH52AUCJ",
+            "ownerName": "aysegul.yonet",
+            "serviceId": "my",
+            "sourceConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "modifiedByConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "created": "2016-01-21T22:01:25.445+00:00",
+            "modified": "2016-01-21T22:01:25.445+00:00",
+            "itemType": "file",
+            "fileSize": "4056500",
+            "etag": "40e5c7ae0cf74f6c0138b9f4df651fb6",
+            "mimeType": "application/octet-stream",
+            "Links": {
+                "Link": [
+                    {
+                        "name": "x58",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A69deca9435b64274bc450604243321a7/fusion/png/01_thumb_58x58.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=7Kt7idttTLnsdgpmeQl706gzl%2Bk%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x120",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A69deca9435b64274bc450604243321a7/fusion/png/01_thumb_120x120.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=JFn8d6MKy28cqtKCEfU6kb09%2FaM%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x188",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A69deca9435b64274bc450604243321a7/fusion/png/01_thumb_188x188.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=o0q8GwniVqCRJZChXWBAsA7hbu0%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x580",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3A69deca9435b64274bc450604243321a7/fusion/png/01_thumb_580x580.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=VvNcqu%2FBRlg9ljAfA6%2BKp3WMwjo%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "id": "e016835b3f76067afe488646bc449416",
+                        "name": "main",
+                        "rel": "manifest",
+                        "href": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/69deca9435b64274bc450604243321a7/versions/4173f7398f5540d0a6b82cb654ca9916/manifest?file=/translation/manifest.json",
+                        "type": "application/json",
+                        "order": "1"
+                    }
+                ]
+            },
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "root",
+                "objectType": "folder",
+                "objectName": "root"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    }
+                ]
+            },
+            "Owner": {
+                "userId": "79USJH52AUCJ",
+                "userName": "aysegul.yonet",
+                "firstName": "Aysegul",
+                "lastName": "Yonet",
+                "email": "aysegul.yonet@autodesk.com"
+            },
+            "translationStatuses": {
+                "TranslationStatus": [
+                    {
+                        "type": "TranslationSubmitted",
+                        "isSuccess": true,
+                        "date": "2016-01-21T22:01:29.958+00:00"
+                    },
+                    {
+                        "type": "FireflySubmitted",
+                        "isSuccess": true,
+                        "date": "2016-01-21T22:01:29.951+00:00"
+                    },
+                    {
+                        "type": "F3D -> TPF data generation",
+                        "isSuccess": true,
+                        "date": "2016-01-21T22:01:48.111+00:00"
+                    },
+                    {
+                        "type": "ThumbnailGenerated",
+                        "isSuccess": true
+                    },
+                    {
+                        "type": "FireFly 3D data generation",
+                        "isSuccess": true,
+                        "date": "2016-01-21T22:01:58.23+00:00"
+                    },
+                    {
+                        "type": "TranslationCompleted",
+                        "isSuccess": true,
+                        "date": "2016-01-21T22:02:00.079+00:00"
+                    }
+                ]
+            },
+            "folderPath": "/root",
+            "DownloadUrl": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/69deca9435b64274bc450604243321a7/versions/4173f7398f5540d0a6b82cb654ca9916?Authorization=Bearer%20ehHm7IFuztU7ZLtfA%252BrBAX4cduw%253D",
+            "SharedWithYou": "false"
+        },
+        {
+            "Attributes": {
+                "Attribute": [
+                    {
+                        "name": "x-ads-meta-translation-status",
+                        "value": "658c8532a3b844aaa89448f50f7b3cec"
+                    }
+                ]
+            },
+            "name": "Kitchen.dwg",
+            "id": "c25477e7ff1847d9862633502f220f4e",
+            "versionId": "658c8532a3b844aaa89448f50f7b3cec",
+            "parentId": "root",
+            "ownerId": "79USJH52AUCJ",
+            "ownerName": "aysegul.yonet",
+            "serviceId": "my",
+            "sourceConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "modifiedByConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "created": "2016-03-18T22:21:54.169+00:00",
+            "modified": "2016-03-18T22:21:54.17+00:00",
+            "itemType": "file",
+            "fileSize": "1609140",
+            "etag": "067d85b46214b3093dcd4d44911e5144",
+            "mimeType": "image/vnd.dwg",
+            "Links": {
+                "Link": [
+                    {
+                        "name": "x580",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Ac25477e7ff1847d9862633502f220f4e/firefly/png/01_thumb_580x580.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=8PPxEM%2FwgPiMA3oSvEHIAZONsRw%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x188",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Ac25477e7ff1847d9862633502f220f4e/firefly/png/01_thumb_188x188.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=xdvUsRE9h%2FHOAeZPZU3lgJ9xE5Y%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x120",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Ac25477e7ff1847d9862633502f220f4e/firefly/png/01_thumb_120x120.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=0Hs23qsDYokxsTUWSYGIBZ4I3BE%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x58",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Ac25477e7ff1847d9862633502f220f4e/firefly/png/01_thumb_58x58.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=5t73hlb4sRM%2FvPWFvzzQmeVu%2BXU%3D",
+                        "type": "image/png",
+                        "order": "1"
+                    },
+                    {
+                        "name": "x580",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Ac25477e7ff1847d9862633502f220f4e/firefly/png/02_thumb_580x580.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=rsaOBU77IVK7VuI1mESBf1TWTQU%3D",
+                        "type": "image/png",
+                        "order": "2"
+                    },
+                    {
+                        "name": "x188",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Ac25477e7ff1847d9862633502f220f4e/firefly/png/02_thumb_188x188.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=%2BElWh51BaCK2ZrK8GRG9scEA4R0%3D",
+                        "type": "image/png",
+                        "order": "2"
+                    },
+                    {
+                        "name": "x120",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Ac25477e7ff1847d9862633502f220f4e/firefly/png/02_thumb_120x120.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=HRriJ5NSPkqQ6qMUc7eKtiqy10E%3D",
+                        "type": "image/png",
+                        "order": "2"
+                    },
+                    {
+                        "name": "x58",
+                        "rel": "thumbnail",
+                        "href": "https://s3.amazonaws.com/autodesk-360-translation-storage-staging/urn%3Aadsk.nitrogen%3Afs.file%3Ac25477e7ff1847d9862633502f220f4e/firefly/png/02_thumb_58x58.png?AWSAccessKeyId=AKIAJ7ODLFPILWE4W26Q&Expires=1461518016&Signature=tbE4PjLoFlMFelC%2BLSn%2BzKkFN%2Fc%3D",
+                        "type": "image/png",
+                        "order": "2"
+                    },
+                    {
+                        "id": "a63b449fbafaa4e70a7115139e2ae4f7",
+                        "name": "main",
+                        "rel": "manifest",
+                        "href": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/c25477e7ff1847d9862633502f220f4e/versions/658c8532a3b844aaa89448f50f7b3cec/manifest?file=/translation/manifest.json",
+                        "type": "application/json",
+                        "order": "1"
+                    }
+                ]
+            },
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "root",
+                "objectType": "folder",
+                "objectName": "root"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    }
+                ]
+            },
+            "Owner": {
+                "userId": "79USJH52AUCJ",
+                "userName": "aysegul.yonet",
+                "firstName": "Aysegul",
+                "lastName": "Yonet",
+                "email": "aysegul.yonet@autodesk.com"
+            },
+            "translationStatuses": {
+                "TranslationStatus": [
+                    {
+                        "type": "TranslationSubmitted",
+                        "isSuccess": true,
+                        "date": "2016-03-18T22:22:11.619+00:00"
+                    },
+                    {
+                        "type": "FireflySubmitted",
+                        "isSuccess": true,
+                        "date": "2016-03-18T22:22:11.62+00:00"
+                    },
+                    {
+                        "type": "FireFly 2D data generation",
+                        "isSuccess": true,
+                        "date": "2016-03-18T22:22:15.771+00:00"
+                    },
+                    {
+                        "type": "ThumbnailGenerated",
+                        "isSuccess": true
+                    },
+                    {
+                        "type": "FireFly 3D data generation",
+                        "isSuccess": true,
+                        "date": "2016-03-18T22:30:10.951+00:00"
+                    },
+                    {
+                        "type": "TranslationCompleted",
+                        "isSuccess": true,
+                        "date": "2016-03-18T22:30:15.714+00:00"
+                    }
+                ]
+            },
+            "folderPath": "/root",
+            "DownloadUrl": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/c25477e7ff1847d9862633502f220f4e/versions/658c8532a3b844aaa89448f50f7b3cec?Authorization=Bearer%20ehHm7IFuztU7ZLtfA%252BrBAX4cduw%253D",
+            "SharedWithYou": "false"
+        },
+        {
+            "Attributes": {
+                "Attribute": [
+                    {
+                        "name": "x-ads-meta-translation-status",
+                        "value": "b3487a8a06314e4cac1638619fe0c8eb"
+                    }
+                ]
+            },
+            "name": "TK107A.collaboration",
+            "id": "20bcbcc23913441bbcbfc19aa6717a87",
+            "versionId": "b3487a8a06314e4cac1638619fe0c8eb",
+            "parentId": "root",
+            "ownerId": "PGXQRN8A99BT",
+            "ownerName": "driveusertestfusiononlystg2",
+            "serviceId": "my",
+            "sourceConsumerId": "697ef507-e285-4c98-ae9c-15e9fb279743",
+            "modifiedByConsumerId": "3bba6ba2-7701-449c-9086-aeafd5bb17aa",
+            "created": "2015-12-14T06:32:11.318+00:00",
+            "modified": "2015-12-14T06:32:11.319+00:00",
+            "itemType": "file",
+            "fileSize": "117248",
+            "etag": "be9cffc3cf1d27ff530c1b7455ad1a32",
+            "mimeType": "application/octet-stream",
+            "Ancestors": {
+                "ancestor": [
+                    {
+                        "object": {
+                            "objectId": "root",
+                            "objectType": "folder",
+                            "objectName": "root"
+                        },
+                        "ordinal": "0"
+                    },
+                    {
+                        "object": {
+                            "objectId": "1cc5bfc201ab4db2829eb7839f4ff3a3",
+                            "objectType": "folder",
+                            "objectName": "Inventor Design Shares"
+                        },
+                        "ordinal": "1"
+                    }
+                ]
+            },
+            "Parent": {
+                "objectId": "1cc5bfc201ab4db2829eb7839f4ff3a3",
+                "objectType": "folder",
+                "objectName": "Inventor Design Shares"
+            },
+            "Privileges": {
+                "privilege": [
+                    {
+                        "user": {
+                            "userId": "PGXQRN8A99BT",
+                            "userName": "driveusertestfusiononlystg2",
+                            "firstName": "drive",
+                            "lastName": "withfusion",
+                            "email": "driveusertest+fusiononlystg2@gmail.com"
+                        },
+                        "levels": [
+                            "view",
+                            "download",
+                            "update",
+                            "delete"
+                        ]
+                    },
+                    {
+                        "user": {
+                            "userId": "TH98N5K4DDR7",
+                            "userName": "driveusertest",
+                            "firstName": "drive",
+                            "lastName": "test",
+                            "email": "driveusertest@gmail.com"
+                        },
+                        "levels": [
+                            "view"
+                        ]
+                    },
+                    {
+                        "user": {
+                            "userId": "79USJH52AUCJ",
+                            "userName": "aysegul.yonet",
+                            "firstName": "Aysegul",
+                            "lastName": "Yonet",
+                            "email": "aysegul.yonet@autodesk.com"
+                        },
+                        "levels": [
+                            "view"
+                        ]
+                    }
+                ]
+            },
+            "SharedBy": {
+                "userId": "PGXQRN8A99BT",
+                "userName": "driveusertestfusiononlystg2",
+                "firstName": "drive",
+                "lastName": "withfusion",
+                "email": "driveusertest+fusiononlystg2@gmail.com"
+            },
+            "Owner": {
+                "userId": "PGXQRN8A99BT",
+                "userName": "driveusertestfusiononlystg2",
+                "firstName": "drive",
+                "lastName": "withfusion",
+                "email": "driveusertest+fusiononlystg2@gmail.com"
+            },
+            "folderPath": "/root",
+            "DownloadUrl": "https://api-staging.autodesk.com/storage/files/v1/user/79USJH52AUCJ/service/my/folder/root/file/20bcbcc23913441bbcbfc19aa6717a87/versions/b3487a8a06314e4cac1638619fe0c8eb?Authorization=Bearer%20ehHm7IFuztU7ZLtfA%252BrBAX4cduw%253D",
+            "SharedWithYou": "true"
+        }
+    ]
+}

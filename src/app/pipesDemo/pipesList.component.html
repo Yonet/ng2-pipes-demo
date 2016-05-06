@@ -1,0 +1,48 @@
+<div class="container">
+  <div class="row">
+      <div class="col-md-10">
+          <div class="navbar">
+              <input type="text" placeholder="Create a folder" value="" #newFile (keyup.enter)="addFile(newFile.value);newFile.value=''">
+          </div>
+      </div>
+  </div>
+  <div class="row grid-container">
+    <div class="col-md-12">
+      <div class="file-filters center-block">
+        <button type="button" class="btn btn-info" (click)="filterChanged('all')">All files</button>
+        <button type="button" class="btn btn-info" (click)="filterChanged('owned')">Owned by me</button>
+        <button type="button" class="btn btn-info" (click)="filterChanged('shared')">Shared with me</button>
+      </div>
+      <div class="table">
+
+        <table class="table table-hover">
+          <thead>
+            <tr>
+              <th>&nbsp;</th>
+              <th>Index</th>
+              <th>&nbsp;</th>
+              <th sort-by="firstName" (sorted)="sort($event)">First Name</th>
+              <th sort-by="lastName" (sorted)="sort($event)">Last Name</th>
+              <th sort-by="name" (sorted)="sort($event)">File Name</th>
+              <th sort-by="size" (sorted)="sort($event)">File Size</th>
+              <th sort-by="modified" (sorted)="sort($event)">Last Modified</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- <tr *ngFor="let customer of customers;trackBy:trackby.customer"> | filter : filterBy -->
+            <tr *ngFor="let file of (files | filter : filterBy); let i = index">
+              <td></td>
+              <td>{{i}}</td>
+              <td><img src="images/icons/{{ file.name | extention | lowercase }}_16.svg"  class="card-image" alt="File extention icon"/></td>
+              <td>{{ file.Owner?.firstName | capitalize }}</td>
+              <td>{{ file.Owner?.lastName | capitalize }}</td>
+              <td>{{ file.name }}</td>
+              <td>{{ file?.fileSize | fileSizePipe }}</td>
+              <td>{{ file?.modified |makeDate| date: "MM/dd/yy"}}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>

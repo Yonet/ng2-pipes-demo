@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="assets" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="26px" height="32px" viewBox="0 0 26 32" enable-background="new 0 0 26 32" xml:space="preserve">
+<g>
+	<g>
+		<path id="background_147_" fill="#BECBD9" d="M0,2v30h26V9h-7V2H0z"/>
+		<path id="shadow_123_" opacity="0.2" fill="#1B3F63" enable-background="new    " d="M26,16l-7-7h7V16z"/>
+		<path id="foldedCorner_147_" fill="#294769" d="M19,2l7,7h-7V2z"/>
+	</g>
+	<g>
+		<g>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M11,14h4v1h-4V14z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M11,20h4v1h-4V20z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M11,12h4v1h-4V12z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M11,18h4v1h-4V18z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M11,16h4v1h-4V16z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M11,22h4v1h-4V22z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M11,24h4v1h-4V24z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M10,11h4v1h-4V11z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M10,15h4v1h-4V15z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M10,21h4v1h-4V21z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M10,13h4v1h-4V13z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M10,19h4v1h-4V19z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M10,17h4v1h-4V17z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M10,23h4v1h-4V23z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M10,25h4v1h-4V25z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M11,26h4v1h-4V26z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M11,30h4v1h-4V30z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M11,28h4v1h-4V28z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M10,27h4v1h-4V27z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M10,31h4v1h-4V31z"/>
+			<path opacity="0.502" fill="#294769" enable-background="new    " d="M10,29h4v1h-4V29z"/>
+		</g>
+		<path fill="#294769" d="M12,11h1v21h-1V11z"/>
+	</g>
+	<g>
+		<path fill="#294769" d="M12,0h1v3h-1V0z"/>
+		<path fill="#294769" d="M11,6h3v3h-3V6z M10,1v10h5V1h-1v3h-3V1H10z"/>
+	</g>
+</g>
+</svg>

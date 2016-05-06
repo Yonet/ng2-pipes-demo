@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="assets" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="290.5px" height="268.7px" viewBox="0 0 290.5 268.7" enable-background="new 0 0 290.5 268.7" xml:space="preserve">
+<g>
+	<g id="file_x5F_bottom_2_">
+		<defs>
+			<polygon id="SVGID_1_" points="10.5,162.8 94.8,266 284.8,214.5 157.5,139.3 			"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  overflow="visible" fill="#FFFFFF"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<polygon id="colorField_x5F_bottom_3_" clip-path="url(#SVGID_2_)" fill="#2168B9" points="4.8,161.1 92.5,268.7 290.5,215 
+			157.9,136.6 		"/>
+		<polygon id="white_x5F_bottom_2_" clip-path="url(#SVGID_2_)" fill="#FFFFFF" points="35,181.8 100.3,257.3 269.8,212.5 182,157 
+					"/>
+		<g id="letter_x5F_revit_2_" clip-path="url(#SVGID_2_)">
+			<path fill="#073761" d="M197.8,210.5c0,0-34.3,9.5-35,9.3s-27.5-8.3-27.5-8.3s-10.8-15.8-9-16s40.8-6.8,40.8-6.8L197.8,210.5z"/>
+			<polygon fill="#1273C5" points="123.8,215.5 112.5,200 136.5,198.3 161.5,216.8 			"/>
+			<path fill="#075291" d="M197.8,210.5l-64.3-13.3c0,0,42.5-8.8,43.5-8.3S197.8,210.5,197.8,210.5z"/>
+			<polygon fill="#075291" points="197.8,210.5 176.5,225 123.8,215.5 			"/>
+		</g>
+		<path id="castShadow_x5F_bottom_3_" opacity="0.3" clip-path="url(#SVGID_2_)" fill="#00213A" d="M158,132.5l-148.8,25
+			C20.7,171.4,62,221.3,66,225.8c4.8,5.3,13.8,12.8,19.8,11.3c5.4-1.3,148.1-35.6,176.3-42L158,132.5z"/>
+	</g>
+	<g id="file_x5F_mid_2_">
+		<defs>
+			<path id="maskShape_x5F_mid_5_" d="M239.5,167.4l-80.8-45.2l-150,22.5c0,0,52.9,60.3,55.7,63.2c4.8,4.9,8,6,17.2,4.2
+				c5.4-1.1,175-39.3,183.5-41.5c8.5-2.2,16-12.2,16-12.2S263.7,162.1,239.5,167.4z"/>
+		</defs>
+		<clipPath id="maskShape_x5F_mid_1_">
+			<use xlink:href="#maskShape_x5F_mid_5_"  overflow="visible"/>
+		</clipPath>
+		<polygon id="colorField_x5F_mid_3_" clip-path="url(#maskShape_x5F_mid_1_)" fill="#F39518" points="3.3,141.3 161.3,121.3 
+			250.8,170 243.8,185.3 67.5,220 		"/>
+		<path id="castShadow_x5F_mid_2_" opacity="0.8" clip-path="url(#maskShape_x5F_mid_1_)" fill="#D36705" d="M157.8,115.5l-150,22
+			c0,0,39.7,47.1,43.8,51.5c4.8,5.3,13.8,12.8,19.8,11.3c5.4-1.3,150.1-31.9,178.3-38.3L157.8,115.5z"/>
+		<path id="white_x5F_mid_2_" clip-path="url(#maskShape_x5F_mid_1_)" fill="#FFFFFF" d="M34.2,161.8c0,0,37.7,41,40.3,44
+			s5.8,5.2,13.5,3.5c7.7-1.7,144.3-40.5,144.3-40.5L175.8,137L34.2,161.8z"/>
+		<g id="letter_x5F_fusion_2_" clip-path="url(#maskShape_x5F_mid_1_)">
+			<polygon fill="#FF9B0D" points="166.3,156.7 193.5,179.3 172.5,185 158.8,160 			"/>
+			<polyline fill="#D36705" points="171.3,165.8 191.7,179.3 153,188.8 149.7,182.7 157.5,168.2 170.7,165.8 			"/>
+			<polygon fill="#FF9B0D" points="128.3,165.8 136.7,172.7 164.7,161.2 159.5,158.2 			"/>
+			<path fill="#FF9B0D" d="M171.3,165.8l-21.7,16.8c0,0-46.5-1.2-46-1.2s61-20.3,61-20.3L171.3,165.8z"/>
+			<polygon fill="#FF9B0D" points="149.7,182.7 140.7,190.5 173.2,182.8 			"/>
+			<polygon fill="#E07412" points="171.3,165.8 149.7,182.7 134.8,171 164.7,161.2 			"/>
+			<polygon fill="#E07412" points="149.7,182.7 155.8,187.8 173.2,182.8 			"/>
+		</g>
+		<path id="shadow_x5F_whiteBG_3_" opacity="0.3" clip-path="url(#maskShape_x5F_mid_1_)" fill="#00213A" d="M175.8,137L34.2,161.8
+			c0,0,24.6,26.7,35.4,38.6c0.6,0,1.1-0.1,1.7-0.2c4.5-1.1,107.8-23,157.2-33.6L175.8,137z"/>
+	</g>
+	<g id="colorFields_x5F_top_4_">
+		<defs>
+			<path id="maskShape_x5F_top_6_" d="M201.3,127.3L156,104.7l-148.8,22c0,0,40.6,42.4,44.5,46c7.8,7.3,9.3,8.8,22.5,6.3
+				c7-1.3,163.2-31.8,171.8-33.5c23.3-4.5,30.2-30.8,30.2-30.8S225.6,122.1,201.3,127.3z"/>
+		</defs>
+		<clipPath id="maskShape_x5F_top_1_">
+			<use xlink:href="#maskShape_x5F_top_6_"  overflow="visible"/>
+		</clipPath>
+		<g id="colorFields_x5F_top_5_" clip-path="url(#maskShape_x5F_top_1_)">
+			<path fill="#C6E0FC" d="M15.8,137.4c0.4,0.3,43.8,45.3,43.8,45.3l12,1.1l7.8-11.4l-48.9-40.1L15.8,137.4z"/>
+			<path id="blue_x5F_top_3_" fill="#2168B9" d="M26.3,135.9c0.4,0.3,38.4,37.1,40.1,39.1s5,2.6,9.8,1.3s137.4-27.4,137.4-27.4
+				l-39.9-27.1L26.3,135.9z"/>
+			<polygon id="yellow_x5F_top_3_" fill="#F5B82E" points="15.5,138.5 143.8,140 209,128.5 157.1,101.8 0,123.1 			"/>
+		</g>
+	</g>
+	<path id="arrow_3_" fill="#118DE0" d="M152.8,60.7l-29.2,31.5l-20-15.7c0,0,64.3-77,64.5-76.5c0.2,0.5,56.3,63.3,56.3,63.3
+		l-20.2,19.2c0,0-16.7-18.3-23.3-25.3c-0.8,38-10.5,72.3-33.7,81c-5.2,1.2-16.3,4.3-26.8,5.8C147.5,135.3,153.3,83.3,152.8,60.7z"/>
+	<g id="curl_x5F_top_5_">
+		<defs>
+			<path id="maskShape_x5F_top_5_" d="M201.3,127.3L156,104.7l-148.8,22c0,0,40.6,42.4,44.5,46c7.8,7.3,9.3,8.8,22.5,6.3
+				c7-1.3,163.2-31.8,171.8-33.5c23.3-4.5,30.2-30.8,30.2-30.8S225.6,122.1,201.3,127.3z"/>
+		</defs>
+		<clipPath id="maskShape_x5F_top_2_">
+			<use xlink:href="#maskShape_x5F_top_5_"  overflow="visible"/>
+		</clipPath>
+		<path id="curl_x5F_top_7_" clip-path="url(#maskShape_x5F_top_2_)" fill="#91ACC9" d="M57.8,180.5c14,5.3,21-16.7,21.7-32.8
+			c5.2-0.8,121.5-20.4,121.5-20.4l82-18.2c0,0-16.2,46.5-16.2,46.2c0-0.3-198.2,33.3-198.2,33.3L57.8,180.5z"/>
+		<path id="curl_x5F_blue_x5F_top_3_" clip-path="url(#maskShape_x5F_top_2_)" fill="#015087" d="M72.2,181.5
+			c8.2-2.8,14.5-7.8,18-25.7c7.2-1,168.5-30,173.5-31c-2.7,8.3-11.3,21.3-36.8,25.7C217.1,152.2,72.2,181.5,72.2,181.5z"/>
+		<path clip-path="url(#maskShape_x5F_top_2_)" fill="#91ACC9" d="M226,141.2c1.9-2.5,5.9-8.3,6.1-13.4c-1.3,0.2-4.3,0.8-4.3,0.8
+			c-0.9,5.6-4.8,11.1-6.7,13.5c-9.2,1.7-18.1,3.4-20.3,3.9c-3.3,5.2-6.7,8.7-18.7,13.7c0,0,38.1-8.2,41.8-8.7
+			c8.2-1,17.2-7.3,20.3-13.3C242.7,138,234.7,139.6,226,141.2z"/>
+		<path clip-path="url(#maskShape_x5F_top_2_)" fill="#015087" d="M187.7,157.3c8.8-2.3,13.2-5.5,15.5-9.2c4.8-1,31-5.8,34.7-6.7
+			c-4.7,6-13.5,9-19.7,9.8C214.4,154.3,205.1,159,187.7,157.3z"/>
+	</g>
+	<g id="curl_x5F_mid_6_">
+		<defs>
+			<path id="maskShape_x5F_mid_4_" d="M239.5,167.4l-80.8-45.2l-150,22.5c0,0,52.9,60.3,55.7,63.2c4.8,4.9,8,6,17.2,4.2
+				c5.4-1.1,175-39.3,183.5-41.5c8.5-2.2,16-12.2,16-12.2S263.7,162.1,239.5,167.4z"/>
+		</defs>
+		<clipPath id="maskShape_x5F_mid_2_">
+			<use xlink:href="#maskShape_x5F_mid_4_"  overflow="visible"/>
+		</clipPath>
+		<g id="curl_x5F_mid_7_" clip-path="url(#maskShape_x5F_mid_2_)">
+			<path id="curl_x5F_mid_8_" fill="#E07412" d="M74,213.2c6.3-0.7,10-3.2,12.8-13c5.8-1,194.2-41.8,194.2-41.8s-7.5,15.8-16,18
+				C256.5,178.5,86,217,82,218S74,213.2,74,213.2z"/>
+			<path id="curl_x5F_white_x5F_mid_3_" fill="#D6D6D7" d="M77.8,214.2c5.6-0.6,12.7-1.5,17-10.3c5.1-0.9,173-38,173-38
+				s-4.7,6.8-17.3,9.3c-7.6,1.5-155.3,37.8-158.8,38.6C88.2,214.7,77.8,214.2,77.8,214.2z"/>
+		</g>
+	</g>
+</g>
+</svg>

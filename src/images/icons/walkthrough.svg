@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="31" height="31" viewBox="0 0 31 31">
+  <defs>
+    <style>
+      .walk-1, .walk-2, .walk-3 {
+        fill: #24b5ed;
+      }
+
+      .walk-1 {
+        opacity: 0.3;
+      }
+
+      .walk-2 {
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <circle cx="16" cy="16" r="15" class="walk-1"/>
+  <circle cx="16" cy="16" r="10" class="walk-2"/>
+  <circle cx="16" cy="16" r="5" class="walk-3"/>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Generator: Adobe Fireworks 10, Export SVG Extension by Aaron Beall (http://fireworks.abeall.com) . Version: 0.6.1  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg id="paperPlaneGraphic-Page%201" viewBox="0 0 564 132" style="background-color:#ffffff" version="1.1"
+	xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+	x="0px" y="0px" width="564px" height="132px"
+>
+	<defs>
+		<linearGradient id="gradient1" x1="58.8727%" y1="32.4422%" x2="8.9429%" y2="84.7363%">
+			<stop stop-color="#4675a8" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#4675a8" stop-opacity="0" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient2" x1="68.3502%" y1="22.1766%" x2="0.8158%" y2="109.5787%">
+			<stop stop-color="#4675a8" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#4675a8" stop-opacity="0" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient3" x1="17.6028%" y1="58.0645%" x2="91.7098%" y2="58.0645%">
+			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#ffffff" stop-opacity="0" offset="100%"/>
+		</linearGradient>
+	</defs>
+	<g id="Layer%201">
+		<path id="background" d="M 0 0 L 564 0 L 564 132 L 0 132 L 0 0 Z" fill="#ffffff"/>
+		<path id="trail" opacity="0.102" d="M 429 29 C 428 29 304 54.5 248 65 C 192 75.5 26 101 5 31 C 8.5 66.5 79.5 141.5 270 106 C 319.3746 96.799 484 56 484 56 C 484 56 430 29 429 29 Z" fill="url(#gradient1)"/>
+		<path id="trail_dark" opacity="0.102" d="M 453 57 C 453 57 315.1014 87.625 254 100 C 135.5 124 25.5 89 4.3399 31 C 29 91 118.6667 106.3334 217 88 C 292.8958 73.8499 448 40 448 40 L 453 57 Z" fill="url(#gradient2)"/>
+		<path id="coverTrail" d="M -1 17 L 404 17 L 483 53.1693 L 578 132 L -1 132 L -1 17 Z" fill="url(#gradient3)"/>
+		<g id="%5Bplane%20%5D">
+			<path d="M 457 46 L 466 50 L 453 57 L 457 46 Z" fill="#34567c"/>
+			<path d="M 448 39 L 428 29 L 535 23 L 448 39 Z" fill="#80a3ca"/>
+			<path d="M 452 56 L 448 39 L 535 23 L 456.4063 44.625 L 452 56 Z" fill="#4675a8"/>
+			<path d="M 458 45.4688 L 483 56 L 536 23 L 458 45.4688 Z" fill="#80a3ca"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,116 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Generator: Adobe Fireworks 10, Export SVG Extension by Aaron Beall (http://fireworks.abeall.com) . Version: 0.6.1  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg id="compositeDesign_individualFiles-Page%201" viewBox="0 0 82 72" style="background-color:#ffffff00" version="1.1"
+	xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+	x="0px" y="0px" width="82px" height="72px"
+>
+	<defs>
+		<filter id="filter1" x="-100%" y="-100%" width="300%" height="300%">
+			<!-- Drop Shadow -->
+			<feOffset result="out" in="SourceGraphic" dx="0" dy="1"/>
+			<feColorMatrix result="out" in="out" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.2 0"/>
+			<feGaussianBlur result="out" in="out" stdDeviation="0"/>
+			<feBlend in="SourceGraphic" in2="out" mode="normal" result="Drop_Shadow1"/>
+		</filter>
+		<filter id="filter2" x="-100%" y="-100%" width="300%" height="300%">
+			<!-- Drop Shadow -->
+			<feOffset result="out" in="SourceGraphic" dx="0" dy="1"/>
+			<feColorMatrix result="out" in="out" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.2 0"/>
+			<feGaussianBlur result="out" in="out" stdDeviation="0"/>
+			<feBlend in="SourceGraphic" in2="out" mode="normal" result="Drop_Shadow2"/>
+		</filter>
+		<filter id="filter3" x="-100%" y="-100%" width="300%" height="300%">
+			<!-- Drop Shadow -->
+			<feOffset result="out" in="SourceGraphic" dx="0" dy="1"/>
+			<feColorMatrix result="out" in="out" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.2 0"/>
+			<feGaussianBlur result="out" in="out" stdDeviation="0"/>
+			<feBlend in="SourceGraphic" in2="out" mode="normal" result="Drop_Shadow3"/>
+		</filter>
+		<filter id="filter4" x="-100%" y="-100%" width="300%" height="300%">
+			<!-- Drop Shadow -->
+			<feOffset result="out" in="SourceGraphic" dx="0" dy="1"/>
+			<feColorMatrix result="out" in="out" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.2 0"/>
+			<feGaussianBlur result="out" in="out" stdDeviation="0"/>
+			<feBlend in="SourceGraphic" in2="out" mode="normal" result="Drop_Shadow4"/>
+		</filter>
+		<filter id="filter5" x="-100%" y="-100%" width="300%" height="300%">
+			<!-- Drop Shadow -->
+			<feOffset result="out" in="SourceGraphic" dx="0" dy="1"/>
+			<feColorMatrix result="out" in="out" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.2 0"/>
+			<feGaussianBlur result="out" in="out" stdDeviation="0"/>
+			<feBlend in="SourceGraphic" in2="out" mode="normal" result="Drop_Shadow5"/>
+		</filter>
+		<filter id="filter6" x="-100%" y="-100%" width="300%" height="300%">
+			<!-- Drop Shadow -->
+			<feOffset result="out" in="SourceGraphic" dx="0" dy="1"/>
+			<feColorMatrix result="out" in="out" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.2 0"/>
+			<feGaussianBlur result="out" in="out" stdDeviation="0"/>
+			<feBlend in="SourceGraphic" in2="out" mode="normal" result="Drop_Shadow6"/>
+		</filter>
+	</defs>
+	<g id="monochromatic">
+		<g id="%5Bbackground%20%5D">
+			<path d="M -1 0 L 71 0 L 71 64 L -1 64 L -1 0 Z" fill="#bcbcbc"/>
+			<path d="M -0.2 8 L 70.2 8 L 70.2 63.2 L -0.2 63.2 L -0.2 8 Z" fill="#f3f3f3"/>
+		</g>
+		<g id="%5BgreenFiles%20%5D">
+			<g filter="url(#filter1)">
+				<path d="M 5 15 L 23 15 L 23 29 L 19 29 L 19 33 L 5 33 L 5 15 Z" fill="#83d00f"/>
+				<path d="M 5 27 L 23 27 L 23 29 L 19 29 L 19 33 L 5 33 L 5 27 Z" fill="#ffffff"/>
+				<path d="M 19 29 L 23 29 L 19 33 L 19 29 Z" fill="#949494"/>
+				<path opacity="0.102" d="M 19 33 L 15 33 L 19 29 L 19 33 Z" fill="#666666"/>
+			</g>
+			<g filter="url(#filter2)">
+				<path d="M 5 37 L 23 37 L 23 51 L 19 51 L 19 55 L 5 55 L 5 37 Z" fill="#4b9609"/>
+				<path d="M 5 49 L 23 49 L 23 51 L 19 51 L 19 55 L 5 55 L 5 49 Z" fill="#ffffff"/>
+				<path d="M 19 51 L 23 51 L 19 55 L 19 51 Z" fill="#949494"/>
+				<path opacity="0.102" d="M 19 55 L 15 55 L 19 51 L 19 55 Z" fill="#666666"/>
+			</g>
+			<g filter="url(#filter3)">
+				<path d="M 26 15 L 44 15 L 44 29 L 40 29 L 40 33 L 26 33 L 26 15 Z" fill="#77bd0d"/>
+				<path d="M 26 27 L 44 27 L 44 29 L 40 29 L 40 33 L 26 33 L 26 27 Z" fill="#ffffff"/>
+				<path d="M 40 29 L 44 29 L 40 33 L 40 29 Z" fill="#949494"/>
+				<path opacity="0.102" d="M 40 33 L 36 33 L 40 29 L 40 33 Z" fill="#666666"/>
+			</g>
+			<g filter="url(#filter4)">
+				<path d="M 47 15 L 65 15 L 65 29 L 61 29 L 61 33 L 47 33 L 47 15 Z" fill="#67a50c"/>
+				<path d="M 47 27 L 65 27 L 65 29 L 61 29 L 61 33 L 47 33 L 47 27 Z" fill="#ffffff"/>
+				<path d="M 61 29 L 65 29 L 61 33 L 61 29 Z" fill="#949494"/>
+				<path opacity="0.102" d="M 61 33 L 57 33 L 61 29 L 61 33 Z" fill="#666666"/>
+			</g>
+			<g filter="url(#filter5)">
+				<path d="M 26 37 L 44 37 L 44 51 L 40 51 L 40 55 L 26 55 L 26 37 Z" fill="#458809"/>
+				<path d="M 26 49 L 44 49 L 44 51 L 40 51 L 40 55 L 26 55 L 26 49 Z" fill="#ffffff"/>
+				<path d="M 40 51 L 44 51 L 40 55 L 40 51 Z" fill="#949494"/>
+				<path opacity="0.102" d="M 40 55 L 36 55 L 40 51 L 40 55 Z" fill="#666666"/>
+			</g>
+			<g filter="url(#filter6)">
+				<path d="M 47 37 L 65 37 L 65 51 L 61 51 L 61 55 L 47 55 L 47 37 Z" fill="#397007"/>
+				<path d="M 47 49 L 65 49 L 65 51 L 61 51 L 61 55 L 47 55 L 47 49 Z" fill="#ffffff"/>
+				<path d="M 61 51 L 65 51 L 61 55 L 61 51 Z" fill="#949494"/>
+				<path opacity="0.102" d="M 61 55 L 57 55 L 61 51 L 61 55 Z" fill="#666666"/>
+			</g>
+		</g>
+		<g>
+			<path d="M 0 1 L 70 1 L 70 9 L 0 9 L 0 1 Z" fill="#ffffff"/>
+			<path id="Ellipse" opacity="0.502" d="M 2 5 C 2 3.8954 2.8954 3 4 3 C 5.1046 3 6 3.8954 6 5 C 6 6.1046 5.1046 7 4 7 C 2.8954 7 2 6.1046 2 5 Z" fill="#666666"/>
+		</g>
+		<path id="whiteSeparator" d="M 65 45 L 65 48 L 62 48 L 62 51 L 59 51 L 59 64 L 71 64 L 71 45 L 65 45 Z" fill="#e6e6e6"/>
+		<g id="%5Bicon_files%20%5D">
+			<g>
+				<path d="M 66 46 L 66 66 L 82 66 L 82 53 L 75 53 L 75 46 L 66 46 Z" fill="#aeaeae"/>
+				<path opacity="0.502" d="M 82 60 L 82 53 L 75 53 L 82 60 Z" fill="#666666"/>
+				<path d="M 76 46 L 76 52 L 82 52 L 76 46 Z" fill="#666666"/>
+			</g>
+			<g>
+				<path d="M 63 49 L 63 69 L 79 69 L 79 67 L 65 67 L 65 49 L 63 49 Z" fill="#aeaeae"/>
+				<path d="M 65 67 L 79 67 L 79 69 L 65 69 L 65 67 Z" fill="#666666"/>
+			</g>
+			<g>
+				<path d="M 60 52 L 60 72 L 76 72 L 76 70 L 62 70 L 62 52 L 60 52 Z" fill="#aeaeae"/>
+				<path d="M 62 70 L 76 70 L 76 72 L 62 72 L 62 70 Z" fill="#666666"/>
+			</g>
+		</g>
+	</g>
+</svg>

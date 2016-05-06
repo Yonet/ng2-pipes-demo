@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Generator: Adobe Fireworks 10, Export SVG Extension by Aaron Beall (http://fireworks.abeall.com) . Version: 0.6.1  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg id="dataCard_nonTranslatable_270x230-Page%201" viewBox="0 0 270 230" style="background-color:#ffffff" version="1.1"
+	xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+	x="0px" y="0px" width="270px" height="230px"
+>
+	<g id="Layer%201">
+		<path opacity="0.702" d="M 0 0 L 270 0 L 270 230 L 0 230 L 0 0 Z" fill="#bbbbbb"/>
+		<path d="M 0 0 L 270 0 L 270 230 L 0 230 L 0 0 Z" fill="#4f687c"/>
+		<path opacity="0.0784" d="M 70 188 L 112 230 L 270 230 L 270 144 L 199 73 L 70 188 Z" fill="#000000"/>
+		<g>
+			<path d="M 199 138 L 199 73 L 164 73 L 164 38 L 70 38 L 70 138 L 199 138 Z" fill="#edeff1"/>
+			<path d="M 199 188 L 70 188 L 70 138 L 199 138 L 199 188 Z" fill="#a7b4be"/>
+			<path d="M 166 38 L 199 71 L 166 71 L 166 38 Z" fill="#a7b4be"/>
+			<path opacity="0.2" d="M 164 73 L 199 73 L 199 108 L 164 73 Z" fill="#4f687c"/>
+		</g>
+	</g>
+</svg>

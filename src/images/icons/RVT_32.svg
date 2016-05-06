@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="assets" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="26px" height="30px" viewBox="0 0 26 30" enable-background="new 0 0 26 30" xml:space="preserve">
+<g>
+	<g>
+		<path id="foldedCorner_183_" fill="#1273C5" d="M19,0l7,7h-7V0z"/>
+		<path id="background_183_" fill="#0C5089" d="M0,0v30h26V7h-7V0H0z"/>
+		<path id="white_152_" fill="#FFFFFF" d="M1,1v20h24V7h-6V1H1z"/>
+		<path id="shadow_172_" opacity="0.2" fill="#1B3F63" enable-background="new    " d="M26,14l-7-7h7V14z"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M8,24h1c0.3,0,0.5,0.2,0.5,0.5S9.3,25,9,25H8V24z M7,23v5h1v-2h0.7l1.3,2h1l-1.4-2.1
+			c0.5-0.2,0.9-0.8,0.9-1.4c0-0.8-0.7-1.5-1.5-1.5H7z"/>
+		<path fill="#FFFFFF" d="M18,24h1.3v-1h-3.7v1H17v4h1V24z"/>
+		<path fill="#FFFFFF" d="M14,28l2-5h-1l-1.5,4L12,23h-1l2,5H14z"/>
+	</g>
+	<g>
+		<path fill="#073761" d="M12.5,5.8c0.1,0,1.6,0.5,1.6,0.5l0.2,4.9L11.7,9L12.5,5.8z"/>
+		<polygon fill="#1273C5" points="10.3,18.9 7,18.5 7.8,12.7 10.9,14.8 		"/>
+		<polygon fill="#1273C5" points="10.9,14.1 18.3,19 19.1,16.8 14.3,10.6 11,10.9 		"/>
+		<polygon fill="#1273C5" points="17.8,7.7 17.4,10.6 14.3,11.3 13.9,6 		"/>
+		<polygon fill="#0A4170" points="9.1,4.8 12.8,5.7 12.1,9.3 		"/>
+		<path fill="#075291" d="M10.9,14.8c0-0.1,0.6-2.8,0.6-2.8l2.8-0.7L9.1,4.8l-1.3,7.9L10.9,14.8z"/>
+		<path fill="#075291" d="M9.1,4.8C9.2,4.8,13.4,3,13.4,3l4.4,4.7L9.1,4.8z"/>
+	</g>
+</g>
+</svg>

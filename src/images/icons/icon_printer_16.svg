@@ -1,0 +1,7 @@
+<svg id="finals_24px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+	<rect fill="#fff" x="8.02" y="16.67" width="6.97" height="0.53"/>
+	<rect fill="#fff" x="7" y="3.67" width="9" height="4" rx="1" ry="1"/>
+	<path fill="#fff" d="M18,8.67H5a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1H7v-2a1,1,0,0,1,1-1H15a1,1,0,0,1,1,1v2h2a1,1,0,0,0,1-1v-6A1,1,0,0,0,18,8.67Zm-1,4H15v-2h2v2Z"/>
+	<path fill="#fff" d="M8,18.67a1,1,0,0,0,1,1h5a1,1,0,0,0,1-1V17.2H8v1.47Z"/>
+	<path fill="#fff" d="M14,14.7H9a1,1,0,0,0-1,1v1h7v-1A1,1,0,0,0,14,14.7Z"/>
+</svg>
