@@ -36,13 +36,21 @@ export class PipesListComponent implements OnInit {
   }
 
   addFile(newFileName: string){
-    let newFile = {
+  //   let newFile = {
+  //     name: newFileName,
+  //     SharedWithYou: "false",
+  //     fileSize: 42,
+  //     modified: Date.now()
+  //   };
+  //
+  //   this.files.push(newFile);
+
+    let newFile = [{
       name: newFileName,
       SharedWithYou: "false",
       fileSize: 42,
       modified: Date.now()
-    }
-    this.files.push(newFile);
-    console.log('Files ', this.files);
+    }];
+    this.files = this.files.concat(newFile);
   }
 }

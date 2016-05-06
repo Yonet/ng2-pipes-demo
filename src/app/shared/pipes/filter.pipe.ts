@@ -11,7 +11,7 @@ export class FilterPipe {
         return value.filter(file => file.SharedWithYou === "true");
       } else if(filterBy === 'owned'){
         let filtered = value.filter(file => file.SharedWithYou === "false");
-        console.log('filtered', filtered);
+        // console.log('filtered', filtered);
         return filtered;
       }
 	  }

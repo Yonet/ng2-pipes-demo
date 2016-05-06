@@ -4,6 +4,7 @@ import { ROUTER_DIRECTIVES, Routes, Router } from '@angular/router';
 
 import {PipesComponent} from './pipesDemo/pipes.component';
 import { APP_PROVIDERS } from './app.providers';
+import {AsyncPipeExample} from './pipesDemo/asyncPipe.component';
 
 @Component({
   moduleId: module.id,
@@ -14,7 +15,8 @@ import { APP_PROVIDERS } from './app.providers';
 })
 @Routes([
   { path: '/', component: PipesComponent },
-  { path: '/pipe', component: PipesComponent }
+  { path: '/pipe', component: PipesComponent },
+  { path: '/async', component: AsyncPipeExample }
 ])
 export class AppComponent {
 
